@@ -1,8 +1,5 @@
 ![ArchLinux](https://i.imgur.com/WC7LNJh.jpeg)
-<<<<<<< HEAD
-=======
 
->>>>>>> c322888 (Fix: Agora tem a descrição de cada pacote instalado)
 # Instalando o Arch Linux Manualmente em 2025
 
 Vai ter coisa melhor para ser fazer do que aprender bash em 2026, e o caminho exelencente para se evoluir no aprendizagem é baixar e instalar que para mim é a melhor em questão de otimização, estilização e compatibilidade.\
