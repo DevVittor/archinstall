@@ -28,7 +28,7 @@ sudo pacman -S pipewire pipewire-alsa pipewire-jack pipewire-pulse gstreamer gst
 sudo pacman -S ttf-roboto ttf-opensans ttf-jetbrains-mono-nerd
 ```
 
-## Habilitar os serviços do sddm e do pipewire
+## Habilitar os serviços do sddm
 
 ```bash
 sudo sistemctl enable sddm
