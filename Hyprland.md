@@ -1,4 +1,4 @@
-![ArchLinux](https://i.imgur.com/WC7LNJh.jpeg)
+![ArchLinux](https://i.imgur.com/cTh4Y2b.jpeg)
 
 # Hyperland
 
