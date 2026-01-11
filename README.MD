@@ -1,6 +1,6 @@
 ![ArchLinux](https://i.imgur.com/Liy2O6W.jpeg)
 
-# Instalando o Arch Linux Manualmente em 2025
+# Instalando o Arch Linux Manualmente em 2026
 
 Não vai ter uma soft skill mais importante para se aprender em 2026 do que bash, é um caminho excelente para se evoluir é baixar e instalar o archlinux que é a melhor em questão de otimização, estilização e compatibilidade.\
 Com esses comandos abaixo você vai conseguir instalar o arch Linux sem precisar usar o comando `archinstall`.
