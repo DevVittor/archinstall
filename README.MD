@@ -1,4 +1,4 @@
-![ArchLinux](https://i.imgur.com/WC7LNJh.jpeg)
+![ArchLinux](https://i.imgur.com/Liy2O6W.jpeg)
 
 # Instalando o Arch Linux Manualmente em 2025
 
