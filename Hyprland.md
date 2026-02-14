@@ -57,7 +57,6 @@ rm -rf yay
 | qt6-wayland                 | Sim         |           |
 | hyprlock                    | Não         |           |
 | hyprcursor                  | Não         |           |
-| hyprpaper                   | Não         |           |
 | hyprpicker                  | Não         |           |
 | waybar                      | Não         |           |
 | kitty                       | Não         |           |
@@ -89,13 +88,13 @@ sudo pacman -S hyprland xdg-desktop-portal-hyprland xdg-desktop-portal-gtk qt5-w
 > E esses são os que podem instalar quando estiver dentro do hyperland:
 
 ```bash
-sudo pacman -S hyprlock hypridle hyprcursor hyprpaper hyprpicker waybar kitty rofi-wayland dolphin dolphin-plugins ark kio-admin dunst cliphist mpv pavucontrol xdg-user-dirs ttf-font-awesome ttf-jetbrains-mono-nerd ttf-opensans noto-fonts ttf-droid ttf-roboto
+sudo pacman -S hyprlock hypridle hyprcursor hyprpicker waybar kitty rofi-wayland dolphin dolphin-plugins ark kio-admin dunst cliphist mpv pavucontrol xdg-user-dirs ttf-font-awesome ttf-jetbrains-mono-nerd ttf-opensans noto-fonts ttf-droid ttf-roboto
 ```
 
 ### Todos os pacotes
 
 ```bash
-sudo pacman -S hyprland hyprlock hypridle hyprcursor hyprpaper hyprpicker waybar kitty rofi-wayland dolphin dolphin-plugins ark kio-admin polkit-kde-agent qt5-wayland qt6-wayland xdg-desktop-portal-hyprland xdg-desktop-portal-gtk dunst cliphist mpv pavucontrol xdg-user-dirs ttf-font-awesome ttf-jetbrains-mono-nerd ttf-opensans noto-fonts ttf-droid ttf-roboto
+sudo pacman -S hyprland hyprlock hypridle hyprcursor hyprpicker waybar kitty rofi-wayland dolphin dolphin-plugins ark kio-admin polkit-kde-agent qt5-wayland qt6-wayland xdg-desktop-portal-hyprland xdg-desktop-portal-gtk dunst cliphist mpv pavucontrol xdg-user-dirs ttf-font-awesome ttf-jetbrains-mono-nerd ttf-opensans noto-fonts ttf-droid ttf-roboto
 ```
 
 ```bash
